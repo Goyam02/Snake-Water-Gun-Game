@@ -41,6 +41,8 @@ def swg():
         else:
             print(Fore.RED + "Computer wins")
             computer_score += 1
+        print(Fore.CYAN + f"Your score: {user_score}")
+        print(Fore.RED + f"Computer's score: {computer_score}")
     print(Fore.CYAN +"\nFinal Scores:")
     print(Fore.GREEN + "Your score:", user_score)
     print(Fore.RED + "Computer's score:", computer_score)
