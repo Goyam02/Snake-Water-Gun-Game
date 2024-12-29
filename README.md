@@ -47,3 +47,6 @@ You will be playing against the computer
 Round 1 of 3
 Enter your choice:
 Enjoy the game! ```
+
+LICENSE
+This project is licensed under the MIT License. See the  file for details.
