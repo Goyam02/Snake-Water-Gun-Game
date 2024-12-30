@@ -26,7 +26,7 @@ Welcome to the Snake Water Gun game! This is a simple command-line game where yo
 
 - Play multiple rounds.
 - Scores are tracked for both the player and the computer.
-- Colorful terminal output using the [colorama](http://_vscodecontentref_/0) library.
+- Colorful terminal output using the [colorama](https://pypi.org/project/colorama/) library.
 
 ## Example
 
