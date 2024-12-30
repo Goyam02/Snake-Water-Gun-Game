@@ -48,5 +48,14 @@ Round 1 of 3
 Enter your choice:
 Enjoy the game! 
 ```
-LICENSE
+## LICENSE
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/Goyam02/Snake-Water-Gun-Game/blob/main/LICENSE) file for details.
+
+## Contributing
+```sh
+Contributions are welcome! Please open an issue or submit a pull request for any changes.
+```
+## Author
+```sh
+GOYAM JAIN
+```
